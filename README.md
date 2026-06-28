@@ -41,7 +41,7 @@ ACE6313-Food-Waste-SDG12/
 1. Install [Anaconda](https://www.anaconda.com/download) (includes Python, Jupyter, scikit-learn).
 2. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ACE6313-Food-Waste-SDG12.git
+   git clone https://github.com/hadriman11/ACE6313-Food-Waste-SDG12.git
    cd ACE6313-Food-Waste-SDG12
    ```
 3. Launch Jupyter:
